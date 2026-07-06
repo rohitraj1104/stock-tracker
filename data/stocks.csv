@@ -1,2 +1,3 @@
 date,ticker,company,broker,rating,price_target,current_price,finnhub_target_mean,finnhub_target_high,finnhub_target_low,finnhub_analyst_count,consensus_strong_buy,consensus_buy,consensus_hold,consensus_sell,consensus_period,source_name,source
+2026-07-06,AMD,,Goldman,Buy,$8.46,$558.93,,,,,14,32,11,0,2026-06-01,Finviz,https://www.barrons.com/livecoverage/stock-market-news-today-070626/card/goldman-be-picky-when-buying-the-chip-dip-BybmHoQLWGhC5k1VZLHf?mod=bar_FV
 2026-07-01,PT,,Jefferies,Buy,$20.00,,,,,,,,,,,Finviz,https://finance.yahoo.com/healthcare/articles/jefferies-upgrades-abivax-buy-lifts-160010446.html
