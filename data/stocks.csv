@@ -1,4 +1,6 @@
 date,ticker,company,broker,rating,price_target,current_price,finnhub_target_mean,finnhub_target_high,finnhub_target_low,finnhub_analyst_count,consensus_strong_buy,consensus_buy,consensus_hold,consensus_sell,consensus_period,source_name,source
+2026-07-10,AI,,Stifel,Buy,$1.00,$9.11,,,,,1,0,9,8,2026-07-01,Finviz,https://finance.yahoo.com/technology/ai/articles/stifel-lifts-twilio-buy-calls-145349239.html
+2026-07-10,SHOP,,Stifel,Buy,$1.00,$125.03,,,,,10,32,11,0,2026-07-01,Finviz,https://finance.yahoo.com/m/bd1a0aac-71ea-3e8f-9eae-5e6fe938d257/stifel-upgrades-shopify-to.html
 2026-07-09,KNX,,Citi,Buy,$1.00,$78.01,,,,,5,12,5,1,2026-07-01,Finviz,https://finance.yahoo.com/markets/stocks/articles/citi-upgrades-knight-swift-saia-144304983.html
 2026-07-08,MSTR,,Barclays,Buy,$49.00,$93.10,,,,,6,16,3,0,2026-07-01,Finviz,https://www.barrons.com/articles/microstrategy-stock-price-mstr-barclays-analyst-buy-bitcoin-stratgey-4a6ee758?mod=bar_FV
 2026-07-06,AMD,,Goldman,Buy,$8.46,$558.93,,,,,14,32,11,0,2026-06-01,Finviz,https://www.barrons.com/livecoverage/stock-market-news-today-070626/card/goldman-be-picky-when-buying-the-chip-dip-BybmHoQLWGhC5k1VZLHf?mod=bar_FV
