@@ -1,4 +1,6 @@
 date,ticker,company,broker,rating,price_target,current_price,finnhub_target_mean,finnhub_target_high,finnhub_target_low,finnhub_analyst_count,consensus_strong_buy,consensus_buy,consensus_hold,consensus_sell,consensus_period,source_name,source
+2026-07-13,IPO,,Bofa,Buy,$1.00,$56.31,,,,,,,,,,Finviz,https://finance.yahoo.com/markets/stocks/article/as-spacex-stock-dips-near-ipo-price-bulls-like-bofas-epstein-say-buy-on-launch-leadership-150227637.html
+2026-07-13,DECK,,Jefferies,Buy,$2.00,$107.53,,,,,6.0,12.0,13.0,2.0,2026-07-01,Finviz,https://finance.yahoo.com/m/f4bccd74-adf1-32fe-ba01-df025a5ae325/deckers-outdoor-shares-climb.html
 2026-07-10,AI,,Stifel,Buy,$1.00,$9.11,,,,,1,0,9,8,2026-07-01,Finviz,https://finance.yahoo.com/technology/ai/articles/stifel-lifts-twilio-buy-calls-145349239.html
 2026-07-10,SHOP,,Stifel,Buy,$1.00,$125.03,,,,,10,32,11,0,2026-07-01,Finviz,https://finance.yahoo.com/m/bd1a0aac-71ea-3e8f-9eae-5e6fe938d257/stifel-upgrades-shopify-to.html
 2026-07-09,KNX,,Citi,Buy,$1.00,$78.01,,,,,5,12,5,1,2026-07-01,Finviz,https://finance.yahoo.com/markets/stocks/articles/citi-upgrades-knight-swift-saia-144304983.html
