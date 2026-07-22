@@ -1,4 +1,5 @@
 date,ticker,company,broker,rating,price_target,current_price,finnhub_target_mean,finnhub_target_high,finnhub_target_low,finnhub_analyst_count,consensus_strong_buy,consensus_buy,consensus_hold,consensus_sell,consensus_period,source_name,source
+2026-07-22,AI,,Stifel,Buy,$5.48,$8.36,,,,,1,0,9,8,2026-07-01,Finviz,https://finance.yahoo.com/technology/ai/articles/stifel-upgrades-digitalocean-buy-ai-145736612.html
 2026-07-20,EDA,,Mizuho,Buy,$3.00,,,,,,,,,,,Finviz,https://finance.yahoo.com/technology/ai/articles/buy-dip-eda-stocks-kimi-152138200.html
 2026-07-17,GSK,,Jefferies,Buy,$30.00,$51.69,,,,,5,8,13,4,2026-07-01,Finviz,https://finance.yahoo.com/m/7c81de7b-8272-36d0-8f89-4c9ba661f07d/jefferies-resumes-gsk.html
 2026-07-17,FOXA,,Citi,Buy,$1.00,$56.52,,,,,5,9,11,1,2026-07-01,Finviz,https://finance.yahoo.com/media-advertising/articles/citi-says-buy-dip-media-135114512.html
