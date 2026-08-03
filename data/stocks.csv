@@ -1,4 +1,6 @@
 date,ticker,company,broker,rating,price_target,current_price,finnhub_target_mean,finnhub_target_high,finnhub_target_low,finnhub_analyst_count,consensus_strong_buy,consensus_buy,consensus_hold,consensus_sell,consensus_period,source_name,source
+2026-08-03,AI,,Truist,Buy,$5.09,$9.66,,,,,,,,,,Finviz,https://finance.yahoo.com/markets/stocks/articles/truist-upgrades-corning-buy-pullback-145600564.html
+2026-08-03,CI,,Raymond James,Outperform,$1.00,$282.49,,,,,,,,,,Finviz,https://finance.yahoo.com/healthcare/articles/raymond-james-cuts-cigna-outperform-150453590.html
 2026-07-31,C,,Citi,Buy,$1.00,$132.87,,,,,7,15,6,0,2026-07-01,Finviz,https://finance.yahoo.com/markets/stocks/articles/citi-says-investors-shifted-buy-144720205.html
 2026-07-28,MW,,Needham,Buy,$6.34,,,,,,,,,,,Finviz,https://finance.yahoo.com/m/e3ea3c27-4925-3ea7-8565-90176d444421/needham-keeps-core-scientific.html
 2026-07-23,UBS,,Ubs,Add,$21.00,$51.74,,,,,7,7,8,3,2026-07-01,Finviz,https://finance.yahoo.com/markets/currencies/articles/ubs-adds-norwegian-krone-top-152821017.html
