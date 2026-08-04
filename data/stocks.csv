@@ -1,6 +1,8 @@
 date,ticker,company,broker,rating,price_target,current_price,finnhub_target_mean,finnhub_target_high,finnhub_target_low,finnhub_analyst_count,consensus_strong_buy,consensus_buy,consensus_hold,consensus_sell,consensus_period,source_name,source
-2026-08-03,AI,,Truist,Buy,$5.09,$9.66,,,,,,,,,,Finviz,https://finance.yahoo.com/markets/stocks/articles/truist-upgrades-corning-buy-pullback-145600564.html
+2026-08-04,U,,Citi,Buy,$1.00,$35.59,,,,,9,16,10,0,2026-08-01,Finviz,https://qz.com/gen-z-homebuyer-us-cities
+2026-08-04,LITE,,Mizuho,Buy,$9.52,$854.55,,,,,9,19,5,0,2026-08-01,Finviz,https://finance.yahoo.com/markets/stocks/articles/buy-stock-ahead-q2-earnings-144736120.html
 2026-08-03,CI,,Raymond James,Outperform,$1.00,$282.49,,,,,,,,,,Finviz,https://finance.yahoo.com/healthcare/articles/raymond-james-cuts-cigna-outperform-150453590.html
+2026-08-03,AI,,Truist,Buy,$5.09,$9.66,,,,,,,,,,Finviz,https://finance.yahoo.com/markets/stocks/articles/truist-upgrades-corning-buy-pullback-145600564.html
 2026-07-31,C,,Citi,Buy,$1.00,$132.87,,,,,7,15,6,0,2026-07-01,Finviz,https://finance.yahoo.com/markets/stocks/articles/citi-says-investors-shifted-buy-144720205.html
 2026-07-28,MW,,Needham,Buy,$6.34,,,,,,,,,,,Finviz,https://finance.yahoo.com/m/e3ea3c27-4925-3ea7-8565-90176d444421/needham-keeps-core-scientific.html
 2026-07-23,UBS,,Ubs,Add,$21.00,$51.74,,,,,7,7,8,3,2026-07-01,Finviz,https://finance.yahoo.com/markets/currencies/articles/ubs-adds-norwegian-krone-top-152821017.html
@@ -9,8 +11,8 @@ date,ticker,company,broker,rating,price_target,current_price,finnhub_target_mean
 2026-07-17,GSK,,Jefferies,Buy,$30.00,$51.69,,,,,5,8,13,4,2026-07-01,Finviz,https://finance.yahoo.com/m/7c81de7b-8272-36d0-8f89-4c9ba661f07d/jefferies-resumes-gsk.html
 2026-07-17,FOXA,,Citi,Buy,$1.00,$56.52,,,,,5,9,11,1,2026-07-01,Finviz,https://finance.yahoo.com/media-advertising/articles/citi-says-buy-dip-media-135114512.html
 2026-07-17,EMR,,Jpmorgan,Overweight,$3.00,$141.41,,,,,7,16,10,1,2026-07-01,Finviz,https://finance.yahoo.com/markets/stocks/articles/jpmorgan-upgrades-3m-emerson-electric-133753344.html
-2026-07-13,IPO,,Bofa,Buy,$1.00,$56.31,,,,,,,,,,Finviz,https://finance.yahoo.com/markets/stocks/article/as-spacex-stock-dips-near-ipo-price-bulls-like-bofas-epstein-say-buy-on-launch-leadership-150227637.html
 2026-07-13,DECK,,Jefferies,Buy,$2.00,$107.53,,,,,6.0,12.0,13.0,2.0,2026-07-01,Finviz,https://finance.yahoo.com/m/f4bccd74-adf1-32fe-ba01-df025a5ae325/deckers-outdoor-shares-climb.html
+2026-07-13,IPO,,Bofa,Buy,$1.00,$56.31,,,,,,,,,,Finviz,https://finance.yahoo.com/markets/stocks/article/as-spacex-stock-dips-near-ipo-price-bulls-like-bofas-epstein-say-buy-on-launch-leadership-150227637.html
 2026-07-10,AI,,Stifel,Buy,$1.00,$9.11,,,,,1,0,9,8,2026-07-01,Finviz,https://finance.yahoo.com/technology/ai/articles/stifel-lifts-twilio-buy-calls-145349239.html
 2026-07-10,SHOP,,Stifel,Buy,$1.00,$125.03,,,,,10,32,11,0,2026-07-01,Finviz,https://finance.yahoo.com/m/bd1a0aac-71ea-3e8f-9eae-5e6fe938d257/stifel-upgrades-shopify-to.html
 2026-07-09,KNX,,Citi,Buy,$1.00,$78.01,,,,,5,12,5,1,2026-07-01,Finviz,https://finance.yahoo.com/markets/stocks/articles/citi-upgrades-knight-swift-saia-144304983.html
