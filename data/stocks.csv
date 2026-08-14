@@ -1,8 +1,9 @@
 date,ticker,company,broker,rating,price_target,current_price,finnhub_target_mean,finnhub_target_high,finnhub_target_low,finnhub_analyst_count,consensus_strong_buy,consensus_buy,consensus_hold,consensus_sell,consensus_period,source_name,source
-2026-08-13,TJX,,Jefferies,Buy,$1.00,$152.91,,,,,11,11,3,1,2026-08-01,Finviz,https://finance.yahoo.com/markets/stocks/articles/jefferies-upgrades-five-below-buy-134555177.html
+2026-08-14,AMD,,Bank Of America,Top Pick,$5.05,$506.46,,,,,16,32,10,0,2026-08-01,Finviz,https://finance.yahoo.com/m/e3902946-0310-3069-be6b-f3d7aca21433/bank-of-america%E2%80%99s-top-pick.html
 2026-08-13,S,,Jefferies,Buy,$500.00,$22.77,,,,,12,16,16,0,2026-08-01,Finviz,https://finance.yahoo.com/markets/stocks/articles/jefferies-sees-buying-opportunity-p-140244849.html
-2026-08-12,ETF,,Goldman Sachs,Buy,$2.25,,,,,,,,,,,Finviz,https://qz.com/goldman-sachs-acquire-neos-investments-etf-081226
+2026-08-13,TJX,,Jefferies,Buy,$1.00,$152.91,,,,,11,11,3,1,2026-08-01,Finviz,https://finance.yahoo.com/markets/stocks/articles/jefferies-upgrades-five-below-buy-134555177.html
 2026-08-12,ONONON,Downgraded by,Raymond James FinancialSubscribe to MarketBeat All Access for the firm's recommendation accuracy rating,Strong BuySubscribe to MarketBeat All Access for the analyst's recommendation accuracy rating,$0.70,,,,,,,,,,,MarketBeat Upgrades,https://www.marketbeat.com/stocks/NYSE/ONON/forecast/
+2026-08-12,ETF,,Goldman Sachs,Buy,$2.25,,,,,,,,,,,Finviz,https://qz.com/goldman-sachs-acquire-neos-investments-etf-081226
 2026-08-11,B,,B. Riley,Buy,$9.10,$40.84,,,,,6,9,4,0,2026-08-01,Finviz,https://finance.yahoo.com/m/fd83d065-20a6-3904-b3ba-3ec5e98d8ebe/b.-riley-keeps-riot-at-buy.html
 2026-08-10,UBER,,Jefferies,Add,$1.00,$77.27,,,,,15,34,7,1,2026-08-01,Finviz,https://finance.yahoo.com/markets/stocks/articles/jefferies-adds-uber-franchise-picks-133416963.html
 2026-08-10,ACHR,,Ubs,Buy,$16.28,$6.53,,,,,2,9,4,0,2026-08-01,Finviz,https://www.investors.com/news/archer-aviation-achr-boeing-wisk-aero-skygrid-insitu-acquisition?mod=IBD_FV
