@@ -1,4 +1,5 @@
 date,ticker,company,broker,rating,price_target,current_price,finnhub_target_mean,finnhub_target_high,finnhub_target_low,finnhub_analyst_count,consensus_strong_buy,consensus_buy,consensus_hold,consensus_sell,consensus_period,source_name,source
+2026-08-21,UBS,,Ubs,Buy,$8100.00,$53.33,,,,,6,7,9,3,2026-08-01,Finviz,https://finance.yahoo.com/m/cd8c42e9-1eef-3b98-83aa-11743faaff45/ubs-sees-s%26p-500-at-8%2C100-but.html
 2026-08-18,LCN,,Goldman Sachs,Buy,$410.00,,,,,,,,,,,Finviz,https://finviz.com//news/383334/goldman-sachs-agrees-deal-to-buy-lcn-capital-partners-for-up-to-410-million
 2026-08-14,AMD,,Bank Of America,Top Pick,$5.05,$506.46,,,,,16,32,10,0,2026-08-01,Finviz,https://finance.yahoo.com/m/e3902946-0310-3069-be6b-f3d7aca21433/bank-of-america%E2%80%99s-top-pick.html
 2026-08-13,TJX,,Jefferies,Buy,$1.00,$152.91,,,,,11,11,3,1,2026-08-01,Finviz,https://finance.yahoo.com/markets/stocks/articles/jefferies-upgrades-five-below-buy-134555177.html
