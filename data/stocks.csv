@@ -1,4 +1,5 @@
 date,ticker,company,broker,rating,price_target,current_price,finnhub_target_mean,finnhub_target_high,finnhub_target_low,finnhub_analyst_count,consensus_strong_buy,consensus_buy,consensus_hold,consensus_sell,consensus_period,source_name,source
+2026-09-01,HWM,,Citi,Buy,$19.00,$253.55,,,,,9,14,5,0,2026-08-01,Finviz,https://www.barrons.com/articles/citi-buy-howmet-stock-elon-musk-spacex-threat-8060a680?mod=bar_FV
 2026-08-25,SPCX,,Jpmorgan,Positive,$75.00,$137.96,,,,,12,20,7,1,2026-08-01,Finviz,https://finance.yahoo.com/m/fa94442f-d294-3f6a-84fb-1d9e38c9f8da/jpmorgan-is-%E2%80%98increasingly.html
 2026-08-21,UBS,,Ubs,Buy,$8100.00,$53.33,,,,,6,7,9,3,2026-08-01,Finviz,https://finance.yahoo.com/m/cd8c42e9-1eef-3b98-83aa-11743faaff45/ubs-sees-s%26p-500-at-8%2C100-but.html
 2026-08-18,LCN,,Goldman Sachs,Buy,$410.00,,,,,,,,,,,Finviz,https://finviz.com//news/383334/goldman-sachs-agrees-deal-to-buy-lcn-capital-partners-for-up-to-410-million
